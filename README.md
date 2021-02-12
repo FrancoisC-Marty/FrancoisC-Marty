@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**FrancoisC-Marty/FrancoisC-Marty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fresh new front developer from France !
 
-Here are some ideas to get you started:
+🔭 - Currently i'm working on my final formation project - a Pokemon Team Builder with stack React, TypeScript and Redux for Front and Symphony for the BackEnd.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 - I'm currently enhence my skills on React for the front End Developement.
+
+📫 - How to reach me:
+    * Mail: francois.caus@gmail.com
+    
+    **Skills :**
+    Web
+    
+    
