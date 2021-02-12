@@ -11,7 +11,6 @@ I'm a fresh new front developer from France !
    
    
 **Skills**
-
 **Web**  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='32'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='32'>
