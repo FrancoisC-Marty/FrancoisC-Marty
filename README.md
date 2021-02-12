@@ -7,7 +7,7 @@ I'm a fresh new front developer from France !
 🌱 - I'm currently enhence my skills on React for the front End Developement.
 
 📫 - How to reach me:
-    * Mail: francois.caus@gmail.com
+- Mail: francois.caus@gmail.com
    
    **Skills**
    **Web**  
